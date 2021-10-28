@@ -2,7 +2,7 @@
 namespace Models; // agrupamento de classes (caminho)
 
 // Classe (ou Tipo) de Objeto
-class Projeto{
+class Livro{
 	// Propriedades
 	protected $id;
 	protected $nome;

@@ -42,10 +42,10 @@
         <a class="btn btn-primary" href="/DracarysBook/Views/pessoa.index.php">Pessoa</a>
       </li>
       <li class="nav-item">
-        <a class="btn btn-danger" href="/DracarysBook/Views/projeto.create.php">Adicionar Livro</a>
+        <a class="btn btn-danger" href="/DracarysBook/Views/livro.create.php">Adicionar Livro</a>
       </li>
       <li class="nav-item">
-        <a class="btn btn-success" href="/DracarysBook/Views/projeto.index.php">Livros Lidos!</a>
+        <a class="btn btn-success" href="/DracarysBook/Views/livroslidos.php">Livros Lidos!</a>
       </li>
       <li class="nav-item">
         <a class="btn btn-warning" href="/DracarysBook/Views/livrosler.php">Livros a Ler!</a>

@@ -33,7 +33,7 @@
 					<label for="css">Ler</label><br>
 				</div>
 				<div class="form-group">
-					<label for="pessoa_id">Orcamento</label>
+					<label for="pessoa_id">Usuário</label>
 					<select class="form-control" name="pessoa_id">
 						<?php
 							foreach($pessoas as $p)
@@ -45,7 +45,7 @@
 				</div>
 				<div class="form-group">
 					<input type="submit" value="Salvar" class="btn btn-primary btn-small"/>
-					<a href="pessoa.index.php" class="btn btn-primary btn-small">Voltar</a>
+					<a href="index.php" class="btn btn-primary btn-small">Voltar</a>
 				</div>
 			</form>		
 		</div>
