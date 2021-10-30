@@ -1,0 +1,38 @@
+<?php 
+	<?php include 'cabecalho.php'; ?>
+?>
+<head>
+	<title>Galeria</title>
+
+</head>
+<body>
+
+	<section>
+			
+			<div class="row">
+				<div class ="col-md-4"> 
+						<img src="midia\p.jpg" alt="" align="absolute" width="270" height="220"></img>
+				</div>
+				
+				<div class="col-md-4">
+					<img src="midia\e.jpg" alt="" align="absolute" width="270" height="220"></img>
+				</div>
+				
+				<div class="col-md-4">
+					<img src="\midia\u.jpg" alt="" align="absolute" width="270" height="220"></img>
+				</div>
+				
+				<div class ="col-md-4"> 
+						<iframe width="300" height="250" src="https://www.youtube.com/embed/XGlpRZagbLE" frameborder="0" 
+						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							
+							
+				</div>	
+				
+				
+			</div>	
+		</section>  
+		</div>
+		<section>
+
+</body>

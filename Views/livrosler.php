@@ -12,10 +12,10 @@ spl_autoload_register(function ($class_name) {
 		<tr><th>ID</th><th>Nome</th><th>Publicação</th><th>Autor</th><th>Pessoa</th><th></th></th></th></th><th></th><th></th></tr>
 	<?php 
 	use Db\Persiste;
-	use Models\Livro;
-	$livros = Persiste::GetAll("Models\\Livro");
+	use Models\Projeto;
+	$projetos = Persiste::GetAll("Models\\Projeto");
 
-	foreach($livros as $p){
+	foreach($projetos as $p){
 		if ($p->gettipo == 2) 
 		{
 				echo "<tr><td>$p->getid</td><td>$p->getnome</td><td>$p->getpublicacao</td><td>$p->getautor</td>"
