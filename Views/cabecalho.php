@@ -47,9 +47,6 @@
       <li class="nav-item">
         <a class="btn btn-warning" href="/DracarysBook/Views/livrosler.php">Livros a Ler!</a>
       </li>
-      <li class="nav-item">
-        <a class="btn btn-danger" href="/DracarysBook/Views/livro.galeria.php">Galeria</a>
-      </li>
     </ul>
   </div>  
 </nav>
